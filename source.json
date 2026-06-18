@@ -1,0 +1,23 @@
+{
+  "name": "TANI",
+  "identifier": "com.tani.app.source",
+  "subtitle": "Your voice-first AI agent.",
+  "apps": [
+    {
+      "name": "TANI",
+      "bundleIdentifier": "com.tani.app",
+      "developerName": "Senul Mapa",
+      "subtitle": "Voice-first AI, mobile-shaped.",
+      "localizedDescription": "TANI is a voice-first AI agent for your pocket. Chat, voice, agents, and memory — all in one.",
+      "iconURL": "https://raw.githubusercontent.com/SenulMapa/tani-releases/main/icon.png",
+      "tintColor": "3F86FF",
+      "category": "productivity",
+      "version": "1.0.0",
+      "versionDate": "2026-06-18",
+      "versionDescription": "Build from 2026-06-18",
+      "downloadURL": "https://github.com/SenulMapa/tani-releases/releases/download/v1.0.0-20260618203144/TANI.ipa",
+      "size": 12558677,
+      "minOSVersion": "16.0"
+    }
+  ]
+}
